@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kamwaro/currency-coverter/issues"
   },
-  "homepage": "https://github.com/kamwaro/currency-converter#readme"
+  "homepage": "https://github.com/kamwaro/currency-converter#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
